@@ -20,22 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo youtube, roteiro pessoal, voz e vídeo feitos por IA.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Possuo um canal no Youtube para a criação de conteúdos voltados a educação pessoal, profissional, financeira e filosófica, destrinchando toda a sabedoria em potencial, neste canal utilizo a IA para a criação de áudios e vídeo, de forma que transmita o
+roteiro escrito com sabedoria.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Liste as IAs Generativas e outras ferramentas usadas]
+(https://elevenlabs.io/)
+(https://app.fliki.ai/)
+IA do Canva (D-ID AI Presenters)
+Chat GPT para correções e alinhamento do Roteiro.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro realizo a criação do Roteiro e realizo as correções e alinhamentos do Roteiro no Chat GPT, Copilot, Gemini qualquer um destes, em seguida, caminho para a criação do áudio, de forma que fique mais similar ao humano possível usando a D-ID AI presenters ou elevenlabs.io, depois realizo a criação das imagens em movimento com a IA Copilot jogando elas no Canva em uma IA interna para realizar animação. Realizo a montagem e o sincronismo das imagens com o áudio e confiro se está tudo ok para postar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto]
+(https://www.youtube.com/@TheAbyssletstalk)
+Atualmente possuem dois vídeos criados por mim.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É bem melhor, não preciso me expor tanto, consigo colocar as ideias mais a limpo e não há necessidade de filmar e gravar a própria voz. Uma voz firme e sem 'tropeços' transmite uma veracidade melhor para o conteúdo do vídeo.
 ```
 
 ### Exemplos e Insigths
